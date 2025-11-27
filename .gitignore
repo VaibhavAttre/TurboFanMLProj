@@ -1,0 +1,17 @@
+# data
+data/
+datasets/
+*.csv
+*.txt
+*.npz
+*.mat
+
+# models
+models/
+*.pt
+*.pth
+*.h5
+
+# notebook/cache junk
+.ipynb_checkpoints/
+__pycache__/
