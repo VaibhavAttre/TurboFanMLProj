@@ -1,0 +1,27 @@
+============================================================
+N-CMAPSS Baseline Model Results
+============================================================
+
+Dataset: N-CMAPSS_DS02-006.h5
+Window Size: 30
+Selected Features: 10
+Window Features: 50
+
+Training Set:
+  MSE: 139.73
+  RMSE: 11.82
+  MAE: 9.86
+  NASA_Score: 9201929.28
+
+Validation Set:
+  MSE: 139.51
+  RMSE: 11.81
+  MAE: 9.85
+  NASA_Score: 1146810.21
+
+Test Set:
+  MSE: 139.68
+  RMSE: 11.82
+  MAE: 9.86
+  NASA_Score: 1149589.51
+
